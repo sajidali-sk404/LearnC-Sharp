@@ -1,0 +1,14 @@
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\bin\Debug\net9.0\inheritPoly.exe
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\bin\Debug\net9.0\inheritPoly.deps.json
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\bin\Debug\net9.0\inheritPoly.runtimeconfig.json
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\bin\Debug\net9.0\inheritPoly.dll
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\bin\Debug\net9.0\inheritPoly.pdb
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.AssemblyInfoInputs.cache
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.AssemblyInfo.cs
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.csproj.CoreCompileInputs.cache
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.dll
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\refint\inheritPoly.dll
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.pdb
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.genruntimeconfig.cache
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\ref\inheritPoly.dll

@@ -12,3 +12,4 @@ C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project i
 C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.pdb
 C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.genruntimeconfig.cache
 C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\ref\inheritPoly.dll
+C:\Coursera Courses\Full Stack web\introduction to programing\projects\Project inhiret, poly\inheritPoly\obj\Debug\net9.0\inheritPoly.sourcelink.json
